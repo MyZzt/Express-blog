@@ -1,0 +1,9 @@
+{
+    "title":"以开发模式的服务器/电脑启动",
+    "db":{
+        "user":"bloguser",
+        "host":"localhost",
+        "port":"27017",
+        "name":"blog"
+    }
+}

@@ -1,0 +1,10 @@
+{
+    "title":"以生产模式的服务器/电脑启动",
+    "db":{
+        "user":"bloguser",
+        "pwd":"zhai123014",
+        "host":"localhost",
+        "port":"27017",
+        "name":"blog"
+    }
+}
