@@ -1,6 +1,8 @@
 # Express-blog
 简易博客项目:前端Express,后端Node.js,数据库MongoDB
 ## 使用方法
+需要安装前置:Node.js
+
 1.项目下载：git代码：git clone https://github.com/MyZzt/Express-blog.git  或  打包下载
 
 2.项目依赖包安装: npm install
@@ -10,7 +12,7 @@
 4.项目访问: localhost/home
 
 ## 注册用户
-需要安装好前置：mongoDB
+需要安装好前置：mongoDB，python3.0+版本
 
 在model中打开user.js文件，把在集合User中创建用户的对象注释去除，
 
